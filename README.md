@@ -1,4 +1,4 @@
-# Advanced Social Entrance extends Google+ (Adseed)
+# Google+代替SNS Adseeg
 
 ## 1. 概要
 > このプロジェクトは、2019年8月にサービスが終了してしまうGoogle+の住民に対する代替案の一つとして提案するものです。
